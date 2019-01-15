@@ -1,0 +1,11 @@
+node_modules
+bower_components
+*.DS_Store
+*.\#*
+*.swp
+*\#
+*~
+.idea/
+.idea/*
+.poll_stamp
+log
