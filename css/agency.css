@@ -668,3 +668,8 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #fed136;
 }
+
+.pictureRow{
+  display: flex;
+  color: blue;
+}

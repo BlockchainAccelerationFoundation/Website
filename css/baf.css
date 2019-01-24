@@ -218,3 +218,13 @@ style {
   height: 300px;
 }
 
+li{
+  color: white;
+  font-size: 100%;  
+}
+
+.pictureRow{
+  display: flex;
+  color: blue;
+}
+
